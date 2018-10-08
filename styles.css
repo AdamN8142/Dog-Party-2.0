@@ -1,0 +1,202 @@
+* {
+  border-style: border-box;
+  margin:0;
+  padding:0;
+}
+
+.dog-icon {
+  height: 37px;
+  padding-left: 18px;
+  padding-top: 6px;
+}
+
+.page-header {
+  background-color:#92e0e5;
+}
+
+.header-text {
+  display: inline-block;
+  float:right;
+  padding-top: 10px;
+  color: white;
+}
+
+.heads {
+  float: right;
+  margin-right: 27px;
+  font-size: 17px;
+  padding-top: 3px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.heads:hover{
+  color: #5399b0;
+  font-weight: bold;
+}
+
+.background {
+  background-image: url(images/park.jpg);
+  background-size: cover;
+  height: 516px;
+  width:100%;
+  text-align: center;
+  }
+
+.dog-1{
+  border-radius: 50%;
+  border: solid #5399b0 4px;
+  }
+
+.some-dogs{
+  font-size: 2rem;
+  padding-top: 50px;
+  font-family: 'Raleway', sans-serif;
+  padding-bottom: 21px;
+  }
+
+.what-dogs {
+  font-size: 20px;
+  border-style: solid;
+  display: inline-block;
+  margin-top: 19px;
+  background-color: white;
+  color:#5399b0;
+  padding: 5px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.what-dogs:hover {
+color:#92e0e5;
+}
+
+.pups {
+  border-radius: 50%;
+}
+
+.pup-2 {
+  height: 235px;
+  border: solid 2px #5399b0;
+}
+
+.pup-3 {
+  height: 235px;
+  border: solid 2px #5399b0;
+}
+
+.pup-1 {
+ height:235px;
+ border: solid 2px #5399b0;
+}
+
+.icon {
+  height: 40px;
+  width:40px;
+  padding-left: 50px;
+  padding-top: 30px;
+}
+
+.footer {
+  background-color: #3f8da7;
+  height: 170px;
+  text-align: center;
+}
+
+.middle {
+  text-align: center;
+}
+
+.footer-text {
+  color: white;
+  padding-top: 19px;
+  padding-left: 34px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+}
+
+.footer-text:hover { 
+  color:#92e0e5;
+}
+
+.paragraphs {
+  display: inline-block;
+}
+
+.puppers {
+  display: inline-block;
+  text-align: center;
+  margin:30px;
+
+}
+
+.puppers-para {
+  width: 335px;
+  height: 120px;
+  margin-top: 20px;
+  font-weight: bold;
+  font-family: 'Raleway', sans-serif;
+  overflow: scroll;
+}
+
+.button {
+  background-color: white;
+  font-size: 15px;
+  color:#5399b0;
+  width: 100px;
+  height: 27px;
+  font-family: 'Raleway', sans-serif;
+  border: solid  3px #5399b0;
+  margin-top: 10px;
+}
+
+.button:hover {
+color: #92e0e5;
+}
+
+.how{
+  padding-bottom: 20px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.how:hover{
+  
+  color: #5399b0;
+  font-weight: bold;
+}
+
+.github{
+  text-decoration: underline;
+}
+
+@media screen and (max-width:1314px){
+.puppers {
+  
+  margin:10px;
+  }
+}
+
+@media screen and (max-width:1070px){
+
+  .how{
+  font-size: 50px;
+}
+.heads{
+  font-size: 25px;
+}
+.pup-1{
+  height: 300px;
+}
+.pup-3{
+  height: 300px;
+}
+.pup-2{
+  height: 300px;
+}
+}
+
+
+
+
+
+
+
+
